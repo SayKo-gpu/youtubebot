@@ -11,4 +11,4 @@ bot.on('ready', () => {
 
 
 
-bot.login('NjU5NDUzMDUxODk1MTUyNjgw.XgTBdw.l-UW_QZZ9Yi0-dMuATSgDLVljU0')
+bot.login('token')
